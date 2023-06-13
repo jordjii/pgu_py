@@ -1,6 +1,6 @@
 number = float(input("Введите произвольное число: "))
-border = float(input("Введите границу: "))
-if number > border:
+boundary = float(input("Введите границу: "))
+if number > boundary:
     if number < boundary:
       print("Введенное число меньше границы")
     elif number > boundary:
